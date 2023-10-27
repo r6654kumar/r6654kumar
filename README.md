@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D1B38&center=true&vCenter=true&random=false&width=435&lines=Hello%2CWorld+!+I+am+Rahul%F0%9F%98%8E;Welcome+to+my+GitHub+Profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=501&height=70&lines=Hello+World%2C+I+am+Rahul%F0%9F%98%8E;Welcome+to+my+GitHub+Profile%F0%9F%98%87)]
 
 <!--
 **r6654kumar/r6654kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
